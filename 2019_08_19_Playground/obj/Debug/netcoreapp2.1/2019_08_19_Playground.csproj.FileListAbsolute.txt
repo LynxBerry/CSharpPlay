@@ -1,0 +1,11 @@
+D:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\bin\Debug\netcoreapp2.1\2019_08_19_Playground.deps.json
+D:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\bin\Debug\netcoreapp2.1\2019_08_19_Playground.runtimeconfig.json
+D:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\bin\Debug\netcoreapp2.1\2019_08_19_Playground.runtimeconfig.dev.json
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\bin\Debug\netcoreapp2.1\2019_08_19_Playground.dll
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\bin\Debug\netcoreapp2.1\2019_08_19_Playground.pdb
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.csprojAssemblyReference.cache
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.csproj.CoreCompileInputs.cache
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.AssemblyInfoInputs.cache
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.AssemblyInfo.cs
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.dll
+d:\GitPersonal\CSharpPlay\CSharpPlay\2019_08_19_Playground\obj\Debug\netcoreapp2.1\2019_08_19_Playground.pdb
