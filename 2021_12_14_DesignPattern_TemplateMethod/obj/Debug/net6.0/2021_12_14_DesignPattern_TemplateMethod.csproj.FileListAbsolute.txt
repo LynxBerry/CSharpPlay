@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.exe
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.deps.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.runtimeconfig.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\ref\2021_12_14_DesignPattern_TemplateMethod.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\bin\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.AssemblyInfo.cs
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\ref\2021_12_14_DesignPattern_TemplateMethod.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\obj\Debug\net6.0\2021_12_14_DesignPattern_TemplateMethod.genruntimeconfig.cache

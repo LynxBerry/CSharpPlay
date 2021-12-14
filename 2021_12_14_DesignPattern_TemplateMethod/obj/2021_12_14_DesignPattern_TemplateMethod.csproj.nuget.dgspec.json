@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\steve\\Documents\\GitHub\\CSharpPlay\\2021_12_14_DesignPattern_TemplateMethod\\2021_12_14_DesignPattern_TemplateMethod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\steve\\Documents\\GitHub\\CSharpPlay\\2021_12_14_DesignPattern_TemplateMethod\\2021_12_14_DesignPattern_TemplateMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\steve\\Documents\\GitHub\\CSharpPlay\\2021_12_14_DesignPattern_TemplateMethod\\2021_12_14_DesignPattern_TemplateMethod.csproj",
+        "projectName": "2021_12_14_DesignPattern_TemplateMethod",
+        "projectPath": "C:\\Users\\steve\\Documents\\GitHub\\CSharpPlay\\2021_12_14_DesignPattern_TemplateMethod\\2021_12_14_DesignPattern_TemplateMethod.csproj",
+        "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steve\\Documents\\GitHub\\CSharpPlay\\2021_12_14_DesignPattern_TemplateMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
