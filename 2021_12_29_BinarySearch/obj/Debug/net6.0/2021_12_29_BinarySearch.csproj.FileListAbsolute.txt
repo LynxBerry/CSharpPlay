@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\2021_12_29_BinarySearch.exe
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\2021_12_29_BinarySearch.deps.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\2021_12_29_BinarySearch.runtimeconfig.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\2021_12_29_BinarySearch.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\ref\2021_12_29_BinarySearch.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\bin\Debug\net6.0\2021_12_29_BinarySearch.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.AssemblyInfo.cs
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\ref\2021_12_29_BinarySearch.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\obj\Debug\net6.0\2021_12_29_BinarySearch.genruntimeconfig.cache

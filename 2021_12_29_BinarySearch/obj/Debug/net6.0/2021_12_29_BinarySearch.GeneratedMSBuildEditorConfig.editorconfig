@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _2021_12_14_DesignPattern_TemplateMethod
-build_property.ProjectDir = c:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_14_DesignPattern_TemplateMethod\
+build_property.RootNamespace = _2021_12_29_BinarySearch
+build_property.ProjectDir = C:\Users\steve\Documents\GitHub\CSharpPlay\2021_12_29_BinarySearch\
