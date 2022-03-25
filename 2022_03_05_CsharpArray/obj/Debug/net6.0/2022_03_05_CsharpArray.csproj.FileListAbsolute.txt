@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\2022_03_05_CsharpArray.exe
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\2022_03_05_CsharpArray.deps.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\2022_03_05_CsharpArray.runtimeconfig.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\2022_03_05_CsharpArray.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\ref\2022_03_05_CsharpArray.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\bin\Debug\net6.0\2022_03_05_CsharpArray.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.AssemblyInfo.cs
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\ref\2022_03_05_CsharpArray.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_03_05_CsharpArray\obj\Debug\net6.0\2022_03_05_CsharpArray.genruntimeconfig.cache
