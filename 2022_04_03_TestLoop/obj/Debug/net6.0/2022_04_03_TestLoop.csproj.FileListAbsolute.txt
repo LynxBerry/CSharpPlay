@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\2022_04_03_TestLoop.exe
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\2022_04_03_TestLoop.deps.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\2022_04_03_TestLoop.runtimeconfig.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\2022_04_03_TestLoop.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\ref\2022_04_03_TestLoop.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\bin\Debug\net6.0\2022_04_03_TestLoop.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.AssemblyInfo.cs
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\ref\2022_04_03_TestLoop.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_TestLoop\obj\Debug\net6.0\2022_04_03_TestLoop.genruntimeconfig.cache

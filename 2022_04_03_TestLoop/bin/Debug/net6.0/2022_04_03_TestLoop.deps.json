@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2022_04_03_TestLoop/1.0.0": {
+        "runtime": {
+          "2022_04_03_TestLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2022_04_03_TestLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
