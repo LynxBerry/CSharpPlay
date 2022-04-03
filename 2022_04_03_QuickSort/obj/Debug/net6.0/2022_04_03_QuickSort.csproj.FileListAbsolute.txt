@@ -1,0 +1,15 @@
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\2022_04_03_QuickSort.exe
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\2022_04_03_QuickSort.deps.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\2022_04_03_QuickSort.runtimeconfig.json
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\2022_04_03_QuickSort.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\ref\2022_04_03_QuickSort.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\bin\Debug\net6.0\2022_04_03_QuickSort.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.csproj.AssemblyReference.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.AssemblyInfo.cs
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\ref\2022_04_03_QuickSort.dll
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.pdb
+C:\Users\steve\Documents\GitHub\CSharpPlay\2022_04_03_QuickSort\obj\Debug\net6.0\2022_04_03_QuickSort.genruntimeconfig.cache
